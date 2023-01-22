@@ -1,4 +1,4 @@
-**Competitve programming and DSA entusiast**
+**Competitve programming and DSA enthusiast**
 
 
 📱Mobile App Developer FLUF stack (Flutter and Firebase)
